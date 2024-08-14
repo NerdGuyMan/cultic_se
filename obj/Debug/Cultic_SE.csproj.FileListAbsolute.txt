@@ -1,0 +1,9 @@
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\bin\Debug\Cultic_SE.exe
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\bin\Debug\Cultic_SE.pdb
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.csprojAssemblyReference.cache
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.Form1.resources
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.Properties.Resources.resources
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.csproj.GenerateResource.cache
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.csproj.CoreCompileInputs.cache
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.exe
+C:\Users\rngqu\source\repos\Cultic_SE\Cultic_SE\obj\Debug\Cultic_SE.pdb
