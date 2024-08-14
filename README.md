@@ -1,2 +1,4 @@
 # cultic_se
- CULTIC savev editor (C#)
+ CULTIC save editor (C#)
+
+Lots of work to do eventually, but here it is
